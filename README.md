@@ -33,10 +33,11 @@ This project is suitable for **learning purposes**, automation experiments, and 
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/ig-cmt-bot.git
-cd ig-cmt-bot
-chmod +x send_comment.sh
-./send_comment.sh
+
+git clone https://github.com/gegege357/AUTO-COMMENT-INSTA
+cd AUTO COMMENT INSTA
+bash setup.sh
+
 ```
 
 ---
@@ -45,7 +46,7 @@ chmod +x send_comment.sh
 
 ```bash
 ./get_post_id.sh
-python sc.py
+./send_comment.sh
 ```
 
 ---
