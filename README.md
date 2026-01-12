@@ -70,9 +70,6 @@ Use responsibly.
 
 ## 🎥 Demo Video
 
-📽️ **Demo Automation (Auto Like & Comment)**  
-➡️ [Click here to download & watch the demo video](https://raw.githubusercontent.com/gegege357/AUTO-COMMENT-INSTA/main/Demo.mkv)
-
-📌 *Video is provided in MKV format due to GitHub file size limitations.*
+https://raw.githubusercontent.com/gegege357/AUTO-COMMENT-INSTA/main/Demo.mp4
 
 (All dependencies are installed automatically)
