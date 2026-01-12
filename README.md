@@ -9,7 +9,6 @@ This project is suitable for **learning purposes**, automation experiments, and 
 ## ✨ Features
 
 * 🔍 Extract Instagram **Post ID** from Post / Reel / TV URL
-* ❤️ **Auto-like post once** before commenting (skip if already liked)
 * 💬 Send comments using:
 
   * `comments.txt` (bulk mode)
