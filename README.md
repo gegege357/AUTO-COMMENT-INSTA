@@ -68,4 +68,11 @@ Use responsibly.
 * colorama
 * termcolor
 
+## 🎥 Demo Video
+
+📽️ **Demo Automation (Auto Like & Comment)**  
+➡️ [Click here to download & watch the demo video](https://raw.githubusercontent.com/gegege357/AUTO-COMMENT-INSTA/main/Demo.mkv)
+
+📌 *Video is provided in MKV format due to GitHub file size limitations.*
+
 (All dependencies are installed automatically)
