@@ -70,6 +70,6 @@ Use responsibly.
 
 ## 🎥 Demo Video
 
-https://raw.githubusercontent.com/gegege357/AUTO-COMMENT-INSTA/main/Demo.mp4
+https://github.com/user-attachments/assets/b0e6f6d0-6cf1-4c44-a84a-03a5f9baa71e
 
 (All dependencies are installed automatically)
