@@ -1,8 +1,3 @@
-Siap 👍
-Ini **deskripsi GitHub yang menarik, rapi, dan profesional**, cocok buat repo public.
-
----
-
 ## 🚀 Instagram Comment Bot with Auto-Like (Python)
 
 A lightweight Instagram automation tool built with **Python** and **instagrapi**, designed to **extract Post IDs**, **auto-like posts**, and **send comments** safely with human-like delays.
